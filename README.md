@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
