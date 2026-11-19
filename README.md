@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/1929-concatenation-of-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
