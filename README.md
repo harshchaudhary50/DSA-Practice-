@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/1929-concatenation-of-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshchaudhary50/DSA-Practice-/tree/master/2733-neither-minimum-nor-maximum) |
